@@ -1,0 +1,12 @@
+{
+  "name": "obfuscate-brunch",
+  "version": "0.0.1",
+  "description": "Adds javascript obfuscation support to brunch",
+  "main": "index.js",
+  "author": "Sebastian Kehr",
+  "license": "MIT",
+  "dependencies": {
+    "javascript-obfuscator": "^0.8.3",
+    "multi-stage-sourcemap": "^0.2.1"
+  }
+}
